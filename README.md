@@ -63,6 +63,9 @@ Aguarde a exibição dos dados meteorológicos da cidade pesquisada.
 <h2>6. Considerações Finais</h2>
 <br>
 A aplicação de Previsão do Tempo é uma ferramenta simples e útil para obter informações meteorológicas rápidas e precisas. 
+<br><br>
+
+<h2>Acesso rapido ao Site: https://encr.pw/GQatD<h2>
 
 
  
